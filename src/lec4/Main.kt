@@ -84,13 +84,13 @@ object Main {
             }
         }
 
-        println("\n")
-        val array7 = arrayOf(1, "2", 3, "4")
-        array7.plus("new").forEach {
-            if (it is String) {
-                print(it)
-            }
-        }
+//        println("\n")
+//        val array7 = arrayOf(1, "2", 3, "4")
+//        array7.plus("new").forEach {
+//            if (it is String) {
+//                print(it)
+//            }
+//        }
 
         println("\n")
         val array8 = arrayOf(1, "2", 3, "4")

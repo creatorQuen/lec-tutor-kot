@@ -1,6 +1,6 @@
 package lec5
 
-object Main {
+object MainAnoter {
 
     @JvmStatic
     fun main(args: Array<String>) {
